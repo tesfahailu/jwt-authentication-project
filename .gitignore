@@ -3,4 +3,5 @@
 /.vscode
 .env
 /src/environments/environment*
-/server/node_modules
+/backend/node_modules
+/backend/src/database/connection.js
