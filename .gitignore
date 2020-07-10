@@ -4,4 +4,4 @@
 .env
 /src/environments/environment*
 /backend/node_modules
-/backend/src/database/connection.js
+/backend/src/database/connection.ts
